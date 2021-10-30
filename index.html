@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Image gallery</title>
+  </head>
+  <body>
+    <!-- Full Image Container -->
+    <div class="full-image" id="full-image-container">
+      <img src="./images/dog.jpg" alt="dog" id="full-image" />
+      <span onclick="closeImage()">X</span>
+      <!-- Download the specific image-->
+      <span class="download" onclick="downloadImage()">Download</span>
+    </div>
+    <!-- Heading -->
+    <h3 class="heading">Image Gallery</h3>
+    <!-- Container for Image Div -->
+    <div class="container"></div>
+  </body>
+  <!-- Adding Script File here -->
+  <script src="./script.js"></script>
+</html>
