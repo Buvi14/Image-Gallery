@@ -50,7 +50,7 @@ This is the Simple project of Image gallery done by using JavaScript
 
 ## :sparkles: Features
 
-:heavy_check_mark: Download;\
+:heavy_check_mark: Download the Image;\
 :heavy_check_mark: Clear Image;\
 :heavy_check_mark: Good Resolution;
 
