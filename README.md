@@ -78,10 +78,11 @@ $ git clone https://github.com/Buvi14/image-gallery
 # Access
 $ cd image-gallery
 
+```
 
 Made with :heart: by <a href="https://github.com/Buvi14" target="_blank">Buvi14</a>
 
 &#xa0;
 
 <a href="#top">Back to top</a>
-```
+
